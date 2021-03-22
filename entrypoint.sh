@@ -1,0 +1,1 @@
+exec gunicorn django_news.wsgi:application -b 0.0.0.0:8000 --reload
