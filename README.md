@@ -15,3 +15,15 @@ docker-compose build
 ```
 docker-compose up
 ```
+### **Можно зарегистрировать полььзователя по ссылке:**
+```
+localhost/user/create/
+```
+### **Получить токен можно по ссылке:**
+```
+localhost/auth/
+```
+### **Можно запросить новый токен по ссылке:**
+```
+localhost/auth/refresh
+```
