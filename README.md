@@ -27,3 +27,7 @@ localhost/auth/
 ```
 localhost/auth/refresh
 ```
+### **Список новостей по ссылке:**
+```
+localhost/news/
+```
